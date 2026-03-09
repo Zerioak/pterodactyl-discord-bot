@@ -222,6 +222,18 @@ The goal is to allow **admins and authorized users** to run panel commands, mana
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+# 🆘 SUPPORT
+
+Need help with setup or commands?
+
+• Join our support server  
+[Join Support Discord](https://discord.gg/z75Cj8YmaP)
+
+• Or DM the developer  
+[DM Zerioak](https://discord.com/users/Zerioak)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 # 👑 Owner
 
 Made with ❤️ by **Zerioak**
