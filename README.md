@@ -208,6 +208,17 @@ ptero-bot/
 • Multi-owner support  
 • Permission system  
 • Performance optimizations  
+• Normal User Commands
+• File Uploading Via Discord
+• Console Command run Via Discord
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 💭 DREAM
+
+To control and manage the entire **Pterodactyl Panel directly through Discord**.
+
+The goal is to allow **admins and authorized users** to run panel commands, manage servers, users, and system features without needing to open the web panel — everything accessible from Discord in a clean, secure, and powerful interface.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
