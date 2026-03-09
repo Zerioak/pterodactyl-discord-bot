@@ -16,7 +16,7 @@ Built with **discord.py 2.x** using modern **Slash Commands**.
 • Server start/stop buttons  
 • Real-time resource usage monitoring
 
-**V2 — Major Upgrade (Coming Soon)** 🚀
+**V2 — Big Upgrade (Coming Soon)** 🚀
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
